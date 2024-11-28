@@ -1,0 +1,28 @@
+replicate
+python-dotenv
+argparse
+requests
+bs4
+huggingface-hub
+openai
+pydantic
+pypdf
+
+# import requests
+# from bs4 import BeautifulSoup
+# from pypdf import PdfReader
+# import replicate
+# from dotenv import dotenv_values
+# import re
+# import io
+# from difflib import SequenceMatcher
+
+# import json
+# import datetime
+# import os
+# from dotenv import dotenv_values
+# import sys
+# import argparse
+# from bs4 import BeautifulSoup
+# from huggingface_hub import InferenceClient
+# from openai import OpenAI
